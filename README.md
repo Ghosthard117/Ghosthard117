@@ -12,7 +12,6 @@ I'm a frontend developer with cousera certificates.
 I am a frontend developer 👨‍💻, I started with this path self-taught.  I have carried out several of my own projects that demonstrate my ability to create dynamic, responsive and attractive websites.  I am interested in developing websites with JavaScript and React.  I am looking to get my first work and gain experience to continue learning and growing in professional skills and professional carrer.
 
 ## Find me on
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Miguel_Alvarez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](www.linkedin.com/in/ghosthard117)
 [![Web](https://img.shields.io/badge/Web-Ghosthard117.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://ghosthard.netlify.app)
 
