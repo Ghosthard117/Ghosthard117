@@ -13,7 +13,7 @@ I'm a passionate frontend developer with a penchant for crafting delightful web 
 
 ## Find me on
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Miguel_Alvarez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](www.linkedin.com/in/ghosthard117)
-[![Web](https://img.shields.io/badge/Web-Ghosthard117.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://ghosthard.netlify.app)
+[![Web](https://img.shields.io/badge/Web-Ghosthard117.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://ghostharddev.vercel.app)
 
 ## My stack
 <p align="left"> 
