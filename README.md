@@ -1,15 +1,15 @@
 <h1 align="center"> Hi there 👋, I'm Miguel or Ghosthard117 👨‍💻 </h1>
 <h3 align="center">A ❤️ of frontend development</h3>
 
-I'm a frontend developer with cousera certificates.
+I'm a passionate frontend developer with a penchant for crafting delightful web experiences. Let me introduce myself:
 
-- 🔭 I’m currently working on **personal projects**
+🌟 **Freelance Journey:** As a freelancer, I've had the privilege of collaborating with Psicomente, a psychology office, on an exciting project for their personal website. Leveraging my expertise in React, Next.js, Tailwind CSS, and Sanity, I've built a robust web solution that seamlessly integrates technology with mental health services. 🧠💻
 
-- 🌱 I’m currently learning **React JS and the tool kit.**
+📜 **Certified Skills:** My journey began with foundational courses on Coursera, where I earned certificates in Frontend Introduction, JavaScript Programming, Version Control, React Basics, and Principles of Design with Meta. These courses equipped me with a solid understanding of web development principles and best practices.
 
-- 💬 Ask me about **Javascript and React**
+🚀 **Passion and Purpose:** I'm not just about code; I'm driven by a desire to create meaningful solutions. Whether it's optimizing performance, enhancing user experiences, or solving complex challenges, I thrive on making a positive impact.
 
-I am a frontend developer 👨‍💻, I started with this path self-taught.  I have carried out several of my own projects that demonstrate my ability to create dynamic, responsive and attractive websites.  I am interested in developing websites with JavaScript and React.  I am looking to get my first work and gain experience to continue learning and growing in professional skills and professional carrer.
+🌱 **Continuous Learning:** I'm always hungry for knowledge. Work experience fuels my growth, and I'm eager to contribute my skills to forward-thinking companies. Recently, I've been learning Prismic, GSAP, and Three.js. Let's build something great together! 🚀
 
 ## Find me on
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Miguel_Alvarez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](www.linkedin.com/in/ghosthard117)
