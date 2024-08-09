@@ -3,8 +3,6 @@
 
 I'm a passionate frontend developer with a penchant for crafting delightful web experiences. Let me introduce myself:
 
-🌟 **Freelance Journey:** As a freelancer, I've had the privilege of collaborating with Psicomente, a psychology office, on an exciting project for their personal website. Leveraging my expertise in React, Next.js, Tailwind CSS, and Sanity, I've built a robust web solution that seamlessly integrates technology with mental health services. 🧠💻
-
 📜 **Certified Skills:** My journey began with foundational courses on Coursera, where I earned certificates in Frontend Introduction, JavaScript Programming, Version Control, React Basics, and Principles of Design with Meta. These courses equipped me with a solid understanding of web development principles and best practices.
 
 🚀 **Passion and Purpose:** I'm not just about code; I'm driven by a desire to create meaningful solutions. Whether it's optimizing performance, enhancing user experiences, or solving complex challenges, I thrive on making a positive impact.
